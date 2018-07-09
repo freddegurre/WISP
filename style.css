@@ -122,7 +122,11 @@ body, html {
 .admin{
     color: #53B1B3; 
 }
+.shadow{
+    box-shadow: 2px 4px 8px 2px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
 footer{
     background-color: lightgray;
 }
+
