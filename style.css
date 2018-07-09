@@ -106,6 +106,22 @@ body, html {
     height: 2px; 
     width: 40%; 
 }
+.lineBreakPortal{
+    background-color: #6BD17F; 
+    height: 2px; 
+    width: 40%; 
+}
+.marginTop{
+    margin-top: 15px; 
+}
+
+.portal{
+    color: #6BD17F; 
+}
+
+.admin{
+    color: #53B1B3; 
+}
 
 footer{
     background-color: lightgray;
