@@ -10,7 +10,7 @@ body, html {
 /* The hero image */
 .hero-image {
     /* The image used */
-    background-color: blue; 
+    background-color: #255B59;  
 
     /* Set a specific height */
     height: 600px;
@@ -24,7 +24,7 @@ body, html {
 /* The hero image */
 .hero-image-2 {
     /* The image used */
-    background-color: blue; 
+    background-color:#255B59;  
 
     /* Set a specific height */
     height: 400px;
@@ -68,8 +68,8 @@ body, html {
 }
 
 .featuresImg{
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 80%;
+    max-height: 80%;
 }
 .productImage{
     max-width: 100%;
@@ -80,7 +80,6 @@ body, html {
 }
 
 .featuresSum{
-    background-color:  #53B1B3;
     padding-top: 4%;
     padding-bottom: 4%; 
 }
@@ -106,7 +105,7 @@ body, html {
     width: 40%; 
 }
 .lineBreakPortal{
-    background-color: #6BD17F; 
+    background-color:#68E6DE; 
     height: 2px; 
     width: 40%; 
 }
@@ -115,7 +114,7 @@ body, html {
 }
 
 .portal{
-    color: #6BD17F; 
+    color: #68E6DE; 
 }
 
 .admin{
